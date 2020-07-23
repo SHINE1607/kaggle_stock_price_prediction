@@ -17,7 +17,7 @@ prices.csv has features:
 * volume: total volume od stockes traded for the day
 
 The stock prices listed are in th range ('2010-01-04', '2016-12-30') for a period of six years
-###  There area total of 501 companies in the dataset and we are training a model for the oracle closing stock prices using LSTM Deep learning model
+###  There are total of 501 companies in the dataset and we are training a model for the oracle closing stock prices using LSTM Deep learning model
 
 ## Plot of the closing stock price for oracle from 2010 to 2016
 
