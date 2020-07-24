@@ -37,7 +37,7 @@ In simple terms, preceding 100 days closing values will be the features for the 
 ### Plot of comparison of predcited data and actual data vs timeframe
 ![alt text](https://github.com/SHINE1607/kaggle_stock_price_prediction/blob/master/images/final_plot.PNG)
 ###  performance and model evaluation
-estmiated mse value for test data : 31.935114583766264
+estmiated mse value for test data : 38.11856842957496
 
 
 
